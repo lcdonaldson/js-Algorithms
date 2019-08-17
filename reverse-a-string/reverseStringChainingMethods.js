@@ -20,4 +20,4 @@ function reverseWord(example){
         .reverse()
         .join('')
 }
-reverseWord('apple');
+reverseWord('apple'); // returns elppa
