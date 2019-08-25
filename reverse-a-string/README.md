@@ -12,5 +12,5 @@ tells you this is still the way most of us do this day in and day out. So why ev
 
 ## S  P  E  E  D 
 
-Yes, these process at very different rates and just like all other unfair things in life. The most complicated is the most
+Yes, these process at very different rates and just like so many other things in life, the most complicated is also the most
 performant. So there you go.
