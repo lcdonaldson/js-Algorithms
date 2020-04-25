@@ -1,10 +1,6 @@
 // Here we create a curry function for a discount that takes
 // just the percent but has access to the percent and price through closures
-
-let discount = 
-        percent => 
-            price =>  
-                price * percent;
+let discount = percent => price => price * percent;
 
 // now we can set various discounts from one function.
 const discount5 = discount(0.05);
